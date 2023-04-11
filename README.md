@@ -1,6 +1,6 @@
 ### GoogleMeetBot
 
-It is googleMeetBot 
+GoogleMeetBot is an artificially intelligent chatbot, which is designed to assist users during Google Meet video conferences and provide them with a more seamless and efficient meeting experience. 
 
 ### What Does it do
 
