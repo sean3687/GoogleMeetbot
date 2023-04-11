@@ -4,8 +4,8 @@ It is googleMeetBot
 
 ### What Does it do
 
-- It join the Google meeting.
-- It records the meeting.
+- Join the Google meeting.
+- Records the meeting.
 
 ### To Get Started
 
